@@ -2,8 +2,8 @@ import csv
 from datetime import datetime
 from itertools import combinations
 
-# CSVファイルのパス
-csv_file_path = "C:/Users/凌/Desktop/python/schedule.csv"
+# CSVファイルのパス(デスクトップにつくったpythonという名前のフォルダにファイルを保存している想定です)
+csv_file_path = "C:/Users/name/Desktop/python/schedule.csv"
 
 # 映画スケジュールのデータを保持するリスト
 schedule_data = []
